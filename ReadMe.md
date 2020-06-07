@@ -8,8 +8,12 @@ Data:
  - https://www.kaggle.com/cdeotte/data-without-drift  
  - https://www.kaggle.com/ragnar123/clean-kalman  
 
-I will be using 1D-Conv and some varient of wavenets. 
-Models:
+
+
+
+
+For self:
+
     1. wavenet source handson
     https://www.kaggle.com/siavrez/wavenet-keras  
     https://www.kaggle.com/ragnar123/wavenet-with-1-more-feature
